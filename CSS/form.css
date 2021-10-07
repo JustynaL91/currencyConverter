@@ -19,9 +19,9 @@
 }
 
 .form__info {
-font-size: 14px;
-text-align: center;
-color: #555;
+    font-size: 14px;
+    text-align: center;
+    color: #555;
 }
 
 .form__result {
@@ -46,4 +46,3 @@ color: #555;
 .form__button:active {
     background-color: hsl(180, 100%, 35%);
 }
-
